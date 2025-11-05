@@ -25,12 +25,8 @@ This project is a microservices-based E-Commerce application built with Spring B
 ###  **Frontend**
 - Angular  
 
-###  **Infrastructure & Observability**
+###  **Containerization**
 - Docker & Docker Compose  
-- Prometheus & Grafana (Metrics & Monitoring)  
-- Loki & Tempo (Centralized Logging & Tracing)  
-- Mailtrap (Email testing)  
-
 ---
 
 ##  **Observability**
