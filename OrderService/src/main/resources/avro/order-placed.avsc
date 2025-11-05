@@ -1,0 +1,17 @@
+{
+  "namespace": "ali.com.example.order_service.event",
+  "type": "record",
+  "name": "OrderPlacedEvent",
+  "fields": [
+    {
+      "name": "orderNumber",
+      "type": "string",
+      "doc": "Unique identifier for the placed order"
+    },
+    {
+      "name": "email",
+      "type": "string",
+      "doc": "Email address of the user who placed the order"
+    }
+  ]
+}
